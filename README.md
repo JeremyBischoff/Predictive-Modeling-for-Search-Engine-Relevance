@@ -1,4 +1,4 @@
-# STATS202FinalProject
+# Predictive Modeling for Search Engine Relevance (STATS 202 Final Project)
 
 ## Overview
 This project focuses on developing predictive models to determine the relevance of URLs for search engine queries. Using a real-world dataset that includes various signals, the goal was to analyze these features and build effective models that accurately predict whether a URL is relevant to a given search query.
